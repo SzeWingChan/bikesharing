@@ -20,7 +20,7 @@ Using the Citi Bike program data and Tableau to analyze data and create visualiz
 - User Trips by Gender
 ![User Trips by Gender by Weekday](https://github.com/SzeWingChan/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png)
   - Male subscribers are the main supporters of the bike-sharing program and their usage is around three times more than female subscribers on all weekdays. 
-  - For the customer category, males use the bikes more often than females on all weekdays, but the ratio is between 1.4 to 2.0.
+  - For the customer category, males use the bikes more often than females on all weekdays, but the ratio is between 1.4 and 2.0.
 
 - Trips by Gender (Weekday per Hour)
 ![Trips by Gender (Weekday per Hour)]( https://github.com/SzeWingChan/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
