@@ -10,7 +10,7 @@ Using the Citi Bike program data and Tableau to analyze data and create visualiz
 1. Peak Hours of the Day
 ![Peak Hours of the Day](https://github.com/SzeWingChan/bikesharing/blob/main/Resources/Peak%20Hours%20of%20the%20Day.png)
 - The peak hours of the day are between 5:00 pm and 7:00 pm.
-- The best window for maintenance is between 2:00 am and 5:00 am as usage is l
+- The best window for maintenance is between 2:00 am and 5:00 am as usage is the lowest. 
 
 2. Trips by Weekday for Each Hour
 ![Trips by Weekday for Each Hour](https://github.com/SzeWingChan/bikesharing/blob/main/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png)
