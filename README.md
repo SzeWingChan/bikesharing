@@ -28,7 +28,7 @@ Using the Citi Bike program data and Tableau to analyze data and create visualiz
   - However, peak hours of bike trips show a similar pattern for both male and female users – peak hours are between 5:00 pm and 8:00 pm and between 8:00 am and 10:00 am.
 
 5. Trip Duration
-![Trip Duration](https://github.com/SzeWingChan/bikesharing/blob/main/Resources/Trip%20Duration.png)
+![Trip Duration](https://github.com/SzeWingChan/bikesharing/blob/main/Resources/Trip%20Duration2.png)
   - Majority of the bike trips are completed in 5 minutes and the number of trips decreases rapidly and the line falls flat when trips reach 50 minutes.  
 
 - Trip Duration by Gender
